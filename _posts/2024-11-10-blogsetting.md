@@ -9,7 +9,7 @@ title: "깃허브 블로그 글 작성 셋팅"
 2. 파일명 형식: `년도-월-일-제목.md`  
    예: `2024-11-10-blogsetting.md`
 3. 아래 형식 복사 후 타이틀 작성 및 그 아래 본문 작성
-   '''markdown
+   ```markdown
    ---
    layout: single
    title: "타이틀 작성"
