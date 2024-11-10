@@ -10,3 +10,4 @@ title: "주피터노트북 커널 죽었을 시 해결법"
 conda create -n new_env python=3.8
 conda activate new_env
 conda install jupyter numpy matplotlib torchvision -c pytorch
+```
